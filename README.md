@@ -6,6 +6,8 @@ His version is based on <a href="https://www.lemon64.com/forum/viewtopic.php?t=4
 * Added a VIC-II conversion to enable either shortboard or longboard voltages to the VIC-II, in order to be able to install 85xx VICs to an earlier (longboard) motherboard
 * Added jumper to permit bypassing the C64 motherboard and push wires directly to the RF modulator unit (for aftermarker models that accepts it) in order to further reduce induced noise on the video lines
 
+-- this design has not yet been tested
+
 Sven advise that the Chroma potentiometer is not required but most LUMAFIX still includes it. If desired, it can be omitted, but this revision does not prepare solder points to do so, please use the potentiometer connections directly for that purpose. 
 
 The LumaFix64 requires the precision round pin strips, because those are narrow enough not to break the socket of VIC-II chip. Since these pin strips are fragile, the LumaFix64 has to be handle with care.
