@@ -1,4 +1,4 @@
-# LumaFix64
+# LumaFix64 plus 85xx to 65xx VIC-II VDD selection
 The LumaFix64 is not my design. 
 This work is based on the brilliant work of Sven Peterson https://github.com/svenpetersen1965/LumaFix64
 His version is based on <a href="https://www.lemon64.com/forum/viewtopic.php?t=40570&start=375">e5frog's LumaFix64 design</a>, which was released in March 7th, 2018 in the Lemon64.com forum. The changes in my design are:
