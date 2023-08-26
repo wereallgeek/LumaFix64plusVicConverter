@@ -1,0 +1,10 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"POPULARITY";
+"1";"";"IC-PACKAGE_DIL40GS40P";"GS40P";"SOCKET";"Dual In Line";"";
+"1";"";"IC-PACKAGE_DIL40_10120540";"BLK_10120540_2X20";"PINS";"Dual In Line";"";
+"2";"";"JP1E";"JP1";"COLOR, S/LUM";"JUMPER";"61";
+"1";"";"JP2E";"JP2";"SELECT-ONE";"JUMPER";"34";
+"1";"100n";"C-0805";"0805";"C3";"";"";
+"3";"2k";"TRIM_US-RJ9W";"RJ9W";"AEC, CHR, PHI0";"POTENTIOMETER";"1";
+"2";"47p";"C-0805";"0805";"C1, C2";"";"";
+"1";"74HCT14D";"74HCT14D";"SO14";"IC1";"Hex schmitt trigger INVERTER";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$13";"";"";
